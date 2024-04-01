@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18977F042BBB40B8009C05D4 /* 22_VisualEffect & GeometryReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18977F022BBB40B8009C05D4 /* 22_VisualEffect & GeometryReader.swift */; };
+		18977F052BBB40B8009C05D4 /* 23_PaginationScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18977F032BBB40B8009C05D4 /* 23_PaginationScrollView.swift */; };
 		18B4E1A42B14AE1A0095AE5D /* 21_AlignmentGuides.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B4E1A32B14AE1A0095AE5D /* 21_AlignmentGuides.swift */; };
 		CBF8614B2AFE8B8900EA2E8C /* SwiftUI_IntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBF8614A2AFE8B8900EA2E8C /* SwiftUI_IntermediateApp.swift */; };
 		CBF8614D2AFE8B8900EA2E8C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBF8614C2AFE8B8900EA2E8C /* ContentView.swift */; };
@@ -57,6 +59,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		18977F022BBB40B8009C05D4 /* 22_VisualEffect & GeometryReader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "22_VisualEffect & GeometryReader.swift"; sourceTree = "<group>"; };
+		18977F032BBB40B8009C05D4 /* 23_PaginationScrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 23_PaginationScrollView.swift; sourceTree = "<group>"; };
 		18B4E1A32B14AE1A0095AE5D /* 21_AlignmentGuides.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 21_AlignmentGuides.swift; sourceTree = "<group>"; };
 		CBF861472AFE8B8900EA2E8C /* SwiftUI-Intermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Intermediate.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBF8614A2AFE8B8900EA2E8C /* SwiftUI_IntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_IntermediateApp.swift; sourceTree = "<group>"; };
@@ -171,6 +175,8 @@
 				CBF861A12B02A74700EA2E8C /* 19_TimerBootcamp.swift */,
 				CBF861A32B03822A00EA2E8C /* 20_CustomPublisher & Subscribers.swift */,
 				18B4E1A32B14AE1A0095AE5D /* 21_AlignmentGuides.swift */,
+				18977F022BBB40B8009C05D4 /* 22_VisualEffect & GeometryReader.swift */,
+				18977F032BBB40B8009C05D4 /* 23_PaginationScrollView.swift */,
 			);
 			path = "SwiftUI-Intermediate";
 			sourceTree = "<group>";
@@ -354,6 +360,8 @@
 				CBF8614B2AFE8B8900EA2E8C /* SwiftUI_IntermediateApp.swift in Sources */,
 				CBF861A22B02A74700EA2E8C /* 19_TimerBootcamp.swift in Sources */,
 				CBF861942B026A0700EA2E8C /* 12_HashableBootcamp.swift in Sources */,
+				18977F052BBB40B8009C05D4 /* 23_PaginationScrollView.swift in Sources */,
+				18977F042BBB40B8009C05D4 /* 22_VisualEffect & GeometryReader.swift in Sources */,
 				CBF861822AFFA73600EA2E8C /* 04_DragGesture.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
